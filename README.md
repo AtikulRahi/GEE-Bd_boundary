@@ -1,4 +1,4 @@
-It represents the boundary of Bangladesh
+We filtered out Bangladesh from FAO/GAUL/2015/level1. And then we add red color to identify the border of Bangladesh.
 
 [Babgladesh SS](https://github.com/AtikulRahi/GEE-Bd_boundary/blob/main/Bd.png)
 
